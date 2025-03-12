@@ -1,4 +1,4 @@
-水果检测模型
+水果检测模型\n
 label_data 在网上找的照片和自己拍的照片
 datasets 包含了train文件夹、val文件夹
 test 下载的test文件夹 
